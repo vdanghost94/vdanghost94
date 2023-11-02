@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vdanghost
 - 👀 I’m interested in ... Games
 - 🌱 I’m currently learning ... on how to use github
-- 💞️ I’m looking to collaborate on ... anything
+- 💞️ I’m looking to collaborate on ... Beta testing for games
 - 📫 How to reach me ... https://facebook.com/vdanghost
 
 <!---
